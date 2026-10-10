@@ -1,0 +1,13 @@
+# Python dependencies inferred from the three supplied scripts.
+# Install a compatible PyTorch build for your CPU/CUDA environment first:
+# https://pytorch.org/get-started/locally/
+numpy
+pandas
+matplotlib
+seaborn
+tensorboard
+scikit-learn
+torch
+torchvision
+segmentation-models-pytorch
+pyvista
