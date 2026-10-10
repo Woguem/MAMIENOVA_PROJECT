@@ -85,9 +85,9 @@ PyTorch builds depend on your OS and CUDA version. If you need GPU support, firs
 export DATASET_PATH="/absolute/path/to/dataset"
 export RESULTS_PATH="/absolute/path/to/results"
 
-python fno_cnn.py   # proposed hybrid model
-python fno.py       # FNO baseline
-python cnn.py       # CNN baseline
+python src/fno_cnn.py   # proposed hybrid model
+python src/fno.py       # FNO baseline
+python src/cnn.py       # CNN baseline
 ```
 
 Use a separate `RESULTS_PATH` for each model, since all scripts write files with the same names.
