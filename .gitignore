@@ -1,0 +1,17 @@
+# Dataset and archives (hosted on Zenodo, not on GitHub)
+dataset/
+*.zip
+*.tar
+*.tar.gz
+*.bin
+
+# Training outputs
+results/
+*.pth
+*.npz
+tensorboard_logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
