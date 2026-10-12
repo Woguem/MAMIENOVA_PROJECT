@@ -130,7 +130,7 @@ For each run, record:
 
 ## Data availability
 
-- **Dataset:** TODO — add the DOI or URL once the dataset is deposited, or describe the access conditions.
+- **Dataset:** https://huggingface.co/datasets/Woguem/cpfft-aluminum-gnd
 
 ## Citation
 
